@@ -1,0 +1,8 @@
+h1 {
+    color: red;
+
+}
+button:hover{
+    color: rgb(8, 3, 3);
+    border: 200;
+}
